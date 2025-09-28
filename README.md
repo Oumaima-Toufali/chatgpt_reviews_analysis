@@ -36,7 +36,7 @@ This project focuses on performing sentiment analysis on user reviews of ChatGPT
 
 ## Usage
 1. Place the `ChatGPT_Reviews.csv` file in the project directory.
-2. Open the Jupyter notebook `projet2_v2 (2).ipynb` in Jupyter Notebook or JupyterLab.
+2. Open the Jupyter notebook `chatgpt_reviews_analysis.ipynb` in Jupyter Notebook or JupyterLab.
 3. Run the cells sequentially to:
    - Load and preprocess the data
    - Perform exploratory data analysis (EDA)
@@ -55,6 +55,3 @@ The models are trained on a subset of 7000 reviews and evaluated on a test set. 
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for improvements or additional features.
-
-## License
-This project is for educational purposes. Please check the license of the dataset and libraries used.
